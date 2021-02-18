@@ -8,3 +8,6 @@ https://www.hackerrank.com/
 
 ## Adam Ethan Comment:
 HackerRank is a great resource for practice. Thanks for the reminder lol
+
+## Juana Ng Comment:
+I used HackerRank for assignments in Basic Algorithms! Great source to practice programming similar to LeetCode.
